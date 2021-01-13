@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AirIndia"
+    }
+  },
+  "defaultProject": "AirIndia",
+  "cli": {
+    "analytics": "f08b3da4-153a-4e84-a8c3-c26454e2279a"
+  }
 }
